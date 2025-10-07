@@ -1,5 +1,5 @@
 {
-  "xsappname": "sapbtphelloworldui5",
+  "xsappname": "sapbtphelloworldui5module",
   "tenant-mode": "dedicated",
   "description": "Security profile of called application",
   "scopes": [
